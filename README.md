@@ -24,11 +24,13 @@ This is an example React project to demonstrate the `design-engine-playground` n
 
 #### 4. Link module to create binary symlink:
 
+`cd /path/to/design-engine-playground`
+
 `npm link design-engine-playground`
 
 ## Build Steps:
 
-Run `npm run build` to create production build, `design-engine-playground` will execute post build.
+Run `npm run build` from the `create-react-app` project to create production build, `design-engine-playground` will execute post build.
 
 On first build, browser window will open to your playground.
 
