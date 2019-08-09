@@ -12,7 +12,7 @@ This is an example React project to demonstrate the `design-engine-playground` n
 
 `npm install`
 
-#### 2. [Download](https://github.com/de-ai/design-engine-playground/archive/master.zip) the module and unzip.
+#### 2. [Download](https://github.com/de-ai/design-engine-playground/archive/master.zip) the module from GitHub and unzip.
 
 #### 3. Link module to create binary symlink:
 
