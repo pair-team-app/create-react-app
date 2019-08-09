@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -10,13 +10,17 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          <button>Login</button>
+          <button>Signup</button>
+        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://designengine.ai"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Design Playground
         </a>
       </header>
     </div>
