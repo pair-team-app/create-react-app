@@ -30,6 +30,6 @@ This is an example React project to demonstrate the `design-engine-playground` n
 
 Run `npm run build` from the `create-react-app` project to create a production build, `design-engine-playground` will execute post build.
 
-On first build, browser window will open to your playground.
+On first build, a browser window will open to your playground.
 
 On consectutive builds, the playground URL will only be displayed.
