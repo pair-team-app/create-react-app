@@ -12,9 +12,7 @@ This is an example React project to demonstrate the `design-engine-playground` n
 
 `npm install`
 
-#### 2. [Download](https://github.com/de-ai/design-engine-playground/archive/master.zip) or clone the module's repository:
-
-`git clone https://www.github.com/de-ai/design-engine-playground`
+#### 2. [Download](https://github.com/de-ai/design-engine-playground/archive/master.zip) the module and unzip.
 
 #### 3. Link module to create binary symlink:
 
