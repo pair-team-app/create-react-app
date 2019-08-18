@@ -16,9 +16,9 @@ This is an example React project to demonstrate the `design-engine-playground` n
 
 `npm install -s design-engine-playground`
 
-#### 3. Link module to create binary symlink for postbuild operation:
+#### 3. Link module to create binary symlink for post-build operation:
 
-`npm link`
+`npm link design-engine-playground`
 
 ## Build Steps:
 
