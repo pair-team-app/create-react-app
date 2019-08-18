@@ -23,7 +23,7 @@
   color: #61dafb;
 }
 
-button {
+button, input[type="button"], input[type="submit"] {
   width: 100px;
   height: 38px;
   margin-right: 20px;
@@ -37,7 +37,7 @@ button {
   line-height: normal;
 }
 
-button:last-child {
+button:last-child, input[type="button"]:last-child, input[type="submit"]:last-child {
   margin-right: 0;
 }
 

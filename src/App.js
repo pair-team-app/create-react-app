@@ -11,8 +11,10 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          <button>Login</button>
-          <button>Signup</button>
+          {/*<button>Login</button>*/}
+          {/*<button>Signup</button>*/}
+	        <input type="button" value="Login" />
+	        <input type="button" value="Signup" />
         </p>
         <a
           className="App-link"
