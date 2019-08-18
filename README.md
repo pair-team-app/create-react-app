@@ -12,19 +12,13 @@ This is an example React project to demonstrate the `design-engine-playground` n
 
 `npm install`
 
-#### 2. [Download](https://github.com/de-ai/design-engine-playground/archive/master.zip) the module from GitHub and unzip.
+#### 2. Install the `design-engine-playground` npm module.
 
-#### 3. Link module to create binary symlink:
+`npm install -s design-engine-playground`
 
-`cd /path/to/design-engine-playground`
+#### 3. Link module to create binary symlink for postbuild operation:
 
 `npm link`
-
-#### 4. Install local copy of module in `create-react-app` project:
-
-`cd /path/to/create-react-app`
-
-`npm install /path/to/design-engine-playground`
 
 ## Build Steps:
 
