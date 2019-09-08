@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './logo.png';
-import './App.css';
+import logo from './spectrum-logo.png';
 import './spectrum.css';
+import './App.css';
 
 function App() {
   return (
@@ -16,10 +16,18 @@ function App() {
 			      <button className="spectrum-Button spectrum-Button--cta is-disabled" disabled="">
 				      <span className="spectrum-Button-label">React</span></button>
 		      </div>
+
 		      <div className="row">
 			      <button className="spectrum-Button spectrum-Button--primary">
 				      <span className="spectrum-Button-label">React</span></button>
 			      <button className="spectrum-Button spectrum-Button--primary is-disabled" disabled="">
+				      <span className="spectrum-Button-label">React</span></button>
+		      </div>
+
+		      <div className="row">
+			      <button className="spectrum-Button spectrum-Button--secondary">
+				      <span className="spectrum-Button-label">React</span></button>
+			      <button className="spectrum-Button spectrum-Button--secondary is-disabled" disabled="">
 				      <span className="spectrum-Button-label">React</span></button>
 		      </div>
 
@@ -33,7 +41,7 @@ function App() {
 
 	      <div className="row">
 		      <table className="spectrum-Table">
-			      <thead className="spectrum-Table-head">
+			      <thead className="spectrum-Table-head" style={{color: 'color: rgb(110, 110, 110);'}}>
 			      <tr>
 				      <th className="spectrum-Table-headCell">Pet Name</th>
 				      <th className="spectrum-Table-headCell">Type</th>
