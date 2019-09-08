@@ -30,6 +30,35 @@ function App() {
 				      <span className="spectrum-Button-label">React</span></button>
 		      </div>
 	      </div>
+
+	      <div className="row">
+		      <table className="spectrum-Table">
+			      <thead className="spectrum-Table-head">
+			      <tr>
+				      <th className="spectrum-Table-headCell">Pet Name</th>
+				      <th className="spectrum-Table-headCell">Type</th>
+				      <th className="spectrum-Table-headCell">Good/Bad</th>
+			      </tr>
+			      </thead>
+			      <tbody className="spectrum-Table-body">
+			      <tr className="spectrum-Table-row">
+				      <td className="spectrum-Table-cell">Mongo</td>
+				      <td className="spectrum-Table-cell">Chihuahua</td>
+				      <td className="spectrum-Table-cell">Bad</td>
+			      </tr>
+			      <tr className="spectrum-Table-row">
+				      <td className="spectrum-Table-cell">Tiny</td>
+				      <td className="spectrum-Table-cell">Great Dane</td>
+				      <td className="spectrum-Table-cell">Bad</td>
+			      </tr>
+			      <tr className="spectrum-Table-row">
+				      <td className="spectrum-Table-cell">Jaws</td>
+				      <td className="spectrum-Table-cell">Pit Bull</td>
+				      <td className="spectrum-Table-cell">Good</td>
+			      </tr>
+			      </tbody>
+		      </table>
+	      </div>
       </header>
     </div>
   );
