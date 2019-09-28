@@ -1,15 +1,15 @@
-.App {
+.app {
   text-align: center;
 }
 
-.App-logo {
+.app-logo {
   width: 256px;
   height: 181px;
   pointer-events: none;
   margin: 50px;
 }
 
-.App-header {
+.app-header {
   background-color: rgb(245, 245, 245);
   min-height: 100vh;
   display: flex;
@@ -18,19 +18,6 @@
   /*justify-content: center;*/
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
 
 .row {
