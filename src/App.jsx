@@ -7,8 +7,8 @@ import './App.css';
 function App() {
   return (
     <div className="app">
-      <header className="app-header">
-        <img src={logo} className="app-logo" alt="logo" data-component-name="Logo" />
+      <div className="content-wrapper">
+        <img src={logo} className="main-logo" alt="logo" data-component-name="Logo" />
 
 	      <div className="react-spectrum-provider spectrum spectrum--light spectrum--medium">
 		      <div className="row">
@@ -67,7 +67,7 @@ function App() {
 		      <a href="https://github.com/AdobeXD/plugin-samples" target="_blank" rel="noopener noreferrer">Plugin Samples</a>
 		      <a href="https://medium.com/@benbrewerbowman/how-to-learn-reactjs-for-2019-7e33e60eb3d7" target="_blank" rel="noopener noreferrer">Learn React</a>
 	      </div>
-      </header>
+      </div>
     </div>
   );
 }
