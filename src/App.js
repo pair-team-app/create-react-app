@@ -60,6 +60,13 @@ function App() {
 			      </tbody>
 		      </table>
 	      </div>
+
+	      <div className="row">
+		      <a href="https://forums.adobexdplatform.com/" target="_blank" rel="noopener noreferrer">XD Forums</a>
+		      <a href="https://adobexdplatform.com/plugin-docs/reference/how-to-read.html" target="_blank" rel="noopener noreferrer">XD Pluigin API Reference</a>
+		      <a href="https://github.com/AdobeXD/plugin-samples" target="_blank" rel="noopener noreferrer">Plugin Samples</a>
+		      <a href="https://medium.com/@benbrewerbowman/how-to-learn-reactjs-for-2019-7e33e60eb3d7" target="_blank" rel="noopener noreferrer">Learn React</a>
+	      </div>
       </header>
     </div>
   );

@@ -8,11 +8,15 @@
         "react-dom": "^16.9.0",
         "react-scripts": "3.0.1"
     },
+    "optionalDependencies": {
+        "typescript": "^3.4.5"
+    },
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "postbuild": "npx design-engine --parse"
     },
     "eslintConfig": {
         "extends": "react-app"
