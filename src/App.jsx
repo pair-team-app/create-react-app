@@ -34,7 +34,7 @@ function App() {
 
 	      <div className="row">
 		      <table className="spectrum-Table" data-component-name="Table">
-			      <thead className="spectrum-Table-head" style={{color: 'color: rgb(110, 110, 110);'}}>
+			      <thead className="spectrum-Table-head" style={{ color : 'rgb(110, 110, 110)' }}>
 			      <tr>
 				      <th className="spectrum-Table-headCell">Pet Name</th>
 				      <th className="spectrum-Table-headCell">Type</th>
