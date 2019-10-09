@@ -6,13 +6,13 @@ This is an example React project to demonstrate the `design-engine-playground` n
 
 #### 1. Clone this repository & install dependencies:
 
-`git clone https://www.github.com/de-ai/create-react-app`
+`git clone https://github.com/de-ai/create-react-app.git`
 
 `cd create-react-app`
 
-`npm install`
+`yarn install`
 
-#### 2. Install & link module to create binary symlink for post-build operation:
+#### 2. Install Playground & link module to create binary symlink for post-build operation:
 
 `npm link design-engine-playground`
 

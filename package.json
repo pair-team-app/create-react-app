@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "design-engine-playground": "^0.2.1",
+        "design-engine-playground": "^0.2.2",
         "react": "^16.10.1",
         "react-dom": "^16.10.1",
         "react-scripts": "3.0.1"
